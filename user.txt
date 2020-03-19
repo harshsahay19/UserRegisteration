@@ -1,0 +1,43 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body> <center>
+ID : <input type ="number" name = "User_ID" /> <br>
+<br>
+First Name : <input type = "text" name = "User_First_Name" /><br>
+Last Name : <input type = "text" name = "User_Last_Name" /><br>
+Mobile Number : <input type = "number" name = "User_Mobile" /><br>
+Email ID : <input type = "email" name = "User_First_Name" /><br>
+Password : <input type ="password" ><br>
+City : <input type = "text" name = "User_City" /><br>
+<select name = "User_Country">
+<option> India </option>
+<option> Pakistan </option>
+<option> Brazil </option>
+<option> Russia </option>
+<option> USA </option>
+<option> China </option>
+<option> Sri Lanka </option>
+<option> Myanmar </option>
+<option> Bhutan </option>
+<option> South Africa </option>
+<option> Australia </option>
+<option> New Zeland </option>
+</select><br>
+Male :<input type ="radio" name ="User_Gender">
+Female :<input type ="radio" name ="User_Gender" >
+Meetha :<input type ="radio" name ="User_Gender" ><br>
+Age : <input type ="number" name="User_Number" /><br>
+<input type="submit" value="Submit Details" /><br>
+<br>
+
+</center>
+
+
+</body>
+</html>
