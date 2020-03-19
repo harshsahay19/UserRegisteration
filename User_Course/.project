@@ -35,9 +35,9 @@
 			<location>C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar</location>
 		</link>
 		<link>
-			<name>WebContent/WEB-INF/lib/mysql-connector-java-8.0.12.jar</name>
+			<name>WebContent/WEB-INF/lib/mysql-connector-java-5.1.41-bin.jar</name>
 			<type>1</type>
-			<location>C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.12.jar</location>
+			<location>C:/Program Files (x86)/MySQL/Connector.J 5.1/mysql-connector-java-5.1.41-bin.jar</location>
 		</link>
 		<link>
 			<name>WebContent/WEB-INF/lib/servlet-api.jar</name>
